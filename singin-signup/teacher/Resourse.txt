@@ -1,0 +1,3 @@
+01) User registration and email verification with PHP and MySQL database on localhost - https://www.youtube.com/watch?v=8K4Wt37Itc4
+02) User registration and email verification PHP and MySQL database - https://www.youtube.com/watch?v=C-ZSQMbsm7A
+03) Password Reset System PHP and MySQL - https://www.youtube.com/watch?v=bWUSX8CzbRw
